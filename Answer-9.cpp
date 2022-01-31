@@ -109,7 +109,7 @@ int main(int argc, char **argv)
     glutInit(&argc, argv);
     glutInitDisplayMode(GLUT_SINGLE | GLUT_RGB);
     glutInitWindowSize(640,480);
-    glutCreateWindow("IIT2018***");
+    glutCreateWindow("Bim2015003***");
     glClearColor(0.0,0.0,0.0,0.0);
     glutDisplayFunc(display);
     glutReshapeFunc(reshape);
